@@ -15,13 +15,12 @@ It aims to connect food donors with NGOs and volunteers who can distribute surpl
 I was responsible for:
 - Designing the entire **UI/UX**
 - Developing the **complete frontend**
-- Ensuring the interface is clean, responsive, and user-friendly
+- Ensuring the interface is clean and user-friendly
 - Creating a modular structure for easy scalability
 
 ## 🚀 Features
 
 ✅ Clean and modern design  
-✅ Fully responsive layout (Mobile, Tablet & Desktop)  
 ✅ Simple and intuitive user experience  
 ✅ Smooth navigation and accessibility support  
 ✅ Scalable frontend structure  
